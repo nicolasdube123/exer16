@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Exercice 16",
   description: "Revue de code documentée",
-  base: '/.vitepress/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
